@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hd_spa/static/css/main.b76a99f5.css",
+    "main.js": "/hd_spa/static/js/main.7646a1ed.js",
+    "index.html": "/hd_spa/index.html",
+    "main.b76a99f5.css.map": "/hd_spa/static/css/main.b76a99f5.css.map",
+    "main.7646a1ed.js.map": "/hd_spa/static/js/main.7646a1ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76a99f5.css",
+    "static/js/main.7646a1ed.js"
+  ]
+}
