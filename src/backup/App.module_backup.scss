@@ -1,0 +1,15 @@
+.App {
+    color: #f00;
+
+    strong {
+        font-size: 50px;
+    }
+
+    &:hover {
+        color: #369;
+    }
+
+    &.on {
+        color: #ff0;
+    }
+}
